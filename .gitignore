@@ -1,1 +1,4 @@
 node_modules
+cypress/e2e/1-getting-started/todo.cy.js
+allure-report
+allure-results

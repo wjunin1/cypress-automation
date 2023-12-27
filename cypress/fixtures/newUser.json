@@ -1,0 +1,21 @@
+{
+    "name": "Wellington Jr",
+    "email": "teste@teste.wellington.com",
+    "password": "jr2311",
+    "day": 23,
+    "month": 12,
+    "year": "1999",
+    "firstName": "Wellington",
+    "lastName": "Junior",
+    "company": "Avan",
+    "address1": "QR 4 conjunto 6 casa",
+    "address2": 44,
+    "country": "United States",
+    "state": "DF",
+    "city": "Brasilia",
+    "zipcode": "72318-333",
+    "mobileNumber": "5561981451011",
+    "nomefixo": "Teste fixo",
+    "emailfixo": "fixo@teste.com",
+    "passwordfixo": "jr2311"
+  }
